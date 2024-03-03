@@ -14,7 +14,7 @@
 
 - 📫 Reach out to me at **aryanmahawar205@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_zTZ_4-TBt3p2eUEchSUjhyjHShhGk2P/view?usp=drive_link](https://drive.google.com/file/d/1_zTZ_4-TBt3p2eUEchSUjhyjHShhGk2P/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_zTZ_4-TBt3p2eUEchSUjhyjHShhGk2P/view?usp=drive_link)
 
 - ⚡Fun Fact - I often leave humorous comments or inside jokes in my code, making debugging sessions a bit more entertaining for myself and anyone who reads my code later on 🙃
 
