@@ -8,7 +8,7 @@
 
 - 👯 Looking to collaborate on [TensorFlow](https://github.com/aryanmahawar205/tensorflow)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanmahawar205/aryanmahawar205](https://github.com/aryanmahawar205/aryanmahawar205)
+- 👨‍💻 All of my projects are available [here](https://github.com/aryanmahawar205?tab=repositories)
 
 - 💬 Ask me about **Data Science & Machine Learning Algorithms**
 
