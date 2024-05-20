@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [magnus-v1](https://github.com/aryanmahawar205/magnus-v1)
 
-- 🌱 Engaged in learning **React Framework for Frontend, Flutter and MERN**
+- 🌱 Engaged in learning **React Framework for Frontend and MERN**
 
 - 👯 Looking to collaborate on [TensorFlow](https://github.com/aryanmahawar205/tensorflow)
 
