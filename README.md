@@ -60,6 +60,6 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Aryan Mahawar's GitHub Streak" width="370" style="align-self: center; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmahawar205&show_icons=true&locale=en&layout=compact&theme=radical" alt="aryanmahawar205" width="270" style="align-self: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmahawar205&show_icons=true&locale=en&layout=compact&theme=radical" alt="aryanmahawar205" width="270" style="align-self: center; margin-left: 20px;">
 </div>
 
