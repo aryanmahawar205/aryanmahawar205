@@ -58,10 +58,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Aryan Mahawar's GitHub Streak" width="400">
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmahawar205&show_icons=true&locale=en&layout=compact&theme=radical" alt="aryanmahawar205" width="400" />
- </p>
+<div style="display: flex;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Aryan Mahawar's GitHub Streak" width="350" style="align-self: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmahawar205&show_icons=true&locale=en&layout=compact&theme=radical" alt="aryanmahawar205" width="250" style="align-self: center;">
+</div>
