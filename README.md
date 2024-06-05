@@ -59,7 +59,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="500">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="400">
 </p>
 
 ---
