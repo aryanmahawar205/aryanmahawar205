@@ -51,7 +51,7 @@
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matplotlib.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matplotlib.png?raw=true" alt = "Matplotlib" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mongoDB.jpg"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mongoDB.jpg?raw=true" alt = "MongoDB" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png?raw=true" alt = "MySQL" height = "40"/></a>
-<a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.png?raw=true" alt = "MATLAB" height = "40"/></a>
+<a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg?raw=true" alt = "MATLAB" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png?raw=true" alt = "Git" height = "40"/></a>
 
 ---
