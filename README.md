@@ -58,13 +58,8 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: space-between; max-width: 870px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="GitHub Streak" width="500" style="border: 3px solid #ff073a; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmahawar205&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" width="370" style="border: 3px solid #ff073a; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
-    </div>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="400">
+</p>
 
-
-
-
+---
