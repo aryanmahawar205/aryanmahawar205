@@ -58,8 +58,10 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="GitHub Streak" width="670" style="align-self: center; border: 3px solid #ff073a; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); margin-right: 20px;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=radical" alt="GitHub Streak" width="500" style="border: 3px solid #ff073a; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
+</div>
+
 
 
 
