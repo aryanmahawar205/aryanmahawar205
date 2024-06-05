@@ -41,7 +41,7 @@
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/tailwind.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/tailwind.png?raw=true" alt = "Tailwind" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/node.js.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/node.js.png?raw=true" alt = "Node.js" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/express.js.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/express.js.png?raw=true" alt = "Express.js" height = "40"/></a>
-<a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/tensorflow.png">
+<a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/tensorflow.png" style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
   <img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/tensorflow.png?raw=true" alt="TensorFlow" height="40"/>
 </a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/pyTorch.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/pyTorch.png?raw=true" alt = "PyTorch" height = "40"/></a>
