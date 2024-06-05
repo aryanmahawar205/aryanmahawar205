@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="5000" src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/banner.gif?raw=true">
+<img align="center" alt="Coding" width="10000" src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/banner.gif?raw=true">
 
 <h1 align="center">👾 Hello, world! I'm Aryan Mahawar.</h1>
 <h2 align="center">Weaving digital dreams as a software virtuoso amidst the bustling innovation hub of India.</h2>
