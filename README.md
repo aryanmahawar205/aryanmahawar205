@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👾 Aryan Mahawar, Coding the Cosmos! 🚀</h1>
 <h2 align="center">Weaving digital dreams as a software virtuoso amidst the bustling innovation hub of India.</h2>
 
@@ -53,7 +51,6 @@
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png?raw=true" alt = "MySQL" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg?raw=true" alt = "MATLAB" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png?raw=true" alt = "Git" height = "40"/></a>
-
 ---
 
 ## 📈 GitHub Stats
