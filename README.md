@@ -1,6 +1,6 @@
 <h1 align="center">👾 Aryan Mahawar, Coding the Cosmos! 🚀</h1>
 <h2 align="center">Weaving digital dreams as a software virtuoso amidst the bustling innovation hub of India.</h2>
-![link](https://komarev.com/ghpvc/?username=aryanmahawar205&label=PROFILE+VIEWS)
+[link](https://komarev.com/ghpvc/?username=aryanmahawar205&label=PROFILE+VIEWS)
 
 <p align="center">
   <a href="https://github.com/aryanmahawar205/magnus-v1"><img src="https://img.shields.io/badge/🔭_Currently_working_on-magnus--v1-brightgreen?style=for-the-badge"></a>
