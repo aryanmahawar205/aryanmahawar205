@@ -55,7 +55,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryanmahawar205&theme=radical&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanmahwar205&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ---
