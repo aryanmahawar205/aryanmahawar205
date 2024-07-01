@@ -56,6 +56,7 @@
 
 <p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryanmahawar205&theme=radical)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="400">
 </p>
 
 ---
