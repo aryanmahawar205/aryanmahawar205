@@ -55,7 +55,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="400">
+  <img src="https://streak-stats.demolab.com/?user=aryanmahawar205&theme=radical&hide_border=true&include_all_commits=true" alt="Streak" width="400">
 </p>
+
 
 ---
