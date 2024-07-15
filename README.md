@@ -51,11 +51,4 @@
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/mySQL.png?raw=true" alt = "MySQL" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/matlab.jpeg?raw=true" alt = "MATLAB" height = "40"/></a>
 <a href="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png"><img src="https://github.com/aryanmahawar205/aryanmahawar205/blob/main/Tech%20Stack%20Images/git.png?raw=true" alt = "Git" height = "40"/></a>
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=aryanmahawar205&theme=radical" alt="Streak" width="400">
-</p>
-
 ---
