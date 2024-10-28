@@ -2,7 +2,7 @@
 <h2 align="center">Weaving digital dreams as a software virtuoso amidst the bustling innovation hub of India.</h2>
 
 <p align="center">
-  <a href="https://github.com/aryanmahawar205/magnus-v1"><img src="https://img.shields.io/badge/🔭_Currently_working_on-magnus--v1-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/aryanmahawar205/AspiraMap"><img src="https://img.shields.io/badge/🔭_Currently_working_on-aspiramap-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/aryanmahawar205?tab=repositories"><img src="https://img.shields.io/badge/👨‍💻_All_of_my_projects-here-blue?style=for-the-badge"></a>
   <a href="https://drive.google.com/file/d/1xxzrqknXLQW4AM5i_WrWnJg8BummL0NR/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Know_about_my_experiences-here-orange?style=for-the-badge"></a>
 </p>
