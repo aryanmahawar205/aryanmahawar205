@@ -8,9 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-mahawar-975a75281/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://stackoverflow.com/users/22479403/aryan-mahawar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://leetcode.com/aryanmahawar205/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/aryan-mahawar-975a75281/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://stackoverflow.com/users/22479403/aryan-mahawar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://leetcode.com/aryanmahawar205/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://www.kaggle.com/aryanmahawar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
 ---
