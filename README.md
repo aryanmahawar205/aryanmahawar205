@@ -55,8 +55,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryanmahawar205&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="400">
-</p>
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="430" style="display: inline-block; margin-right: 60px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanmahawar205&show_icons=true&locale=en&theme=dark" alt="Stats" width="400" style="display: inline-block;">
+</div>
