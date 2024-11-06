@@ -55,13 +55,13 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
        alt="Streak" 
        width="423" 
-       style="border: 2px solid white; border-radius: 8px;">
+       style="display: inline-block; margin-right: 20px; border: 2px solid white; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanmahawar205&show_icons=true&locale=en&theme=dark" 
        alt="Stats" 
-       width="423" 
-       style="border: 2px solid white; border-radius: 8px;">
+       width="400" 
+       style="display: inline-block; margin-left: 20px;">
 </div>
