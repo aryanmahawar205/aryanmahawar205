@@ -55,7 +55,7 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmahawar205&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
        alt="Streak" 
        width="423" 
@@ -65,4 +65,3 @@
        width="423" 
        style="border: 2px solid white; border-radius: 8px;">
 </div>
-
