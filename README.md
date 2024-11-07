@@ -56,12 +56,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=aryanmahawar205&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
-       alt="Streak" 
-       width="423" 
+  <img src="https://streak-stats.vercel.app/?user=aryanmahawar205&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
+       alt="Streak"
+       width="423"
        style="display: inline-block; margin-right: 20px; border: 2px solid white; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanmahawar205&show_icons=true&locale=en&theme=dark" 
        alt="Stats" 
        width="400" 
-       style="display: inline-block; margin-left: 20px;">
+       style="display: inline-block; margin-left: 20px; border: 2px solid white; border-radius: 8px;">
 </div>
