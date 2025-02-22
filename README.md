@@ -2,9 +2,9 @@
 <h2 align="center">Weaving digital dreams as a software virtuoso amidst the bustling innovation hub of India.</h2>
 
 <p align="center">
-  <a href="https://github.com/aryanmahawar205/AspiraMap"><img src="https://img.shields.io/badge/🔭_Currently_working_on-aspiramap-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/aryanmahawar205/agri-link"><img src="https://img.shields.io/badge/🔭_Currently_working_on-agrilink-brightgreen?style=for-the-badge"></a>
   <a href="https://github.com/aryanmahawar205?tab=repositories"><img src="https://img.shields.io/badge/👨‍💻_All_of_my_projects-here-blue?style=for-the-badge"></a>
-  <a href="https://drive.google.com/file/d/1xxzrqknXLQW4AM5i_WrWnJg8BummL0NR/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Know_about_my_experiences-here-orange?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1kC89mS7In1qrbgMfw1xeX7A4nmzYoqQS/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Know_about_my_experiences-here-orange?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🌱 Engaged in learning **React Framework for Frontend and MERN Stack**
-- 👯 Looking to collaborate on [TensorFlow](https://github.com/aryanmahawar205/tensorflow)
+- 👯 Looking to collaborate on [AspiraMap](https://github.com/aryanmahawar205/AspiraMap)
 - 💬 Ask me about **Data Science & Machine Learning Algorithms**
 - 📫 Reach out to me at **aryanmahawar205@gmail.com**
 - ⚡ Fun Fact: I often leave humorous comments or inside jokes in my code, making debugging sessions a bit more entertaining for myself and anyone who reads my code later on 🙃
